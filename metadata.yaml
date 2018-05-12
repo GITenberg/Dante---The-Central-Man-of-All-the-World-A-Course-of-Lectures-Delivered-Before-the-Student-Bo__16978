@@ -1,0 +1,32 @@
+_repo: Dante---The-Central-Man-of-All-the-World-A-Course-of-Lectures-Delivered-Before-the-Student-Bo__16978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Slattery, John T. (John Theodore)
+    alias: Slattery, John Theodore
+    birthdate: 1866
+    deathdate: 1938
+    gutenberg_agent_id: '7066'
+    url: http://www.gutenberg.org/2009/agents/7066
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16978'
+  lccn: '21000965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dante Alighieri, 1265-1321. Divina commedia'
+- !lcc 'PQ'
+- !lcsh 'Dante Alighieri, 1265-1321'
+title: 'Dante: "The Central Man of All the World"
+
+  A Course of Lectures Delivered Before the Student Body of the New York State College
+  for Teachers, Albany, 1919, 1920'
+url: http://www.gutenberg.org/ebooks/16978
